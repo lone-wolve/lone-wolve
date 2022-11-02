@@ -10,7 +10,8 @@
 Welcome to my Github page! I am Abdul Muizz IKumapayi and I am currently finishing my Information System Bachelors  degree at the university of The Gambia!  
 
 <img align='right' src='https://unsplash.com/photos/LrxSl4ZxoRs' width='200"'>
-#### 🌱 Things I am currently working on: 
+
+### 🌱 Things I am currently working on: 
 - Finish my Information System Bachelors  degree 
 - Taking online courses about Data analysis 
 - Tutoring Python to newbies
